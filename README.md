@@ -1,7 +1,7 @@
 Sample Python Web application
 =============================
 
-The sample is using [Flask web framework](http://flask.pocoo.org/) and is intented to test the Python support on [Pivotal's Cloud Foundry](https://run.pivotal.io/).
+The sample is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [Pivotal's Cloud Foundry](https://run.pivotal.io/).
 
 Deploy to Cloud Foundry
 -----------------------
